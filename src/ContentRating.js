@@ -9,7 +9,7 @@ function ContentRating() {
 
   return (
     <div className="text-center mt-5">
-      <h2>Content Rating Application</h2>
+      <h2>Corruption of Flood Control Projects and other Infrastructure projects in the Philippine</h2>
       <p>Do you like this content?</p>
       <div className="mt-3">
         <button className="btn btn-success me-3" onClick={() => setLikes(likes + 1)}>
